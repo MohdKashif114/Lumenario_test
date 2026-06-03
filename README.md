@@ -93,3 +93,12 @@ This dashboard has been created with a focus on **Premium Design Aesthetics** an
 
 - **JSON Data Scope**: The dashboard relies completely on static data supplied via `article_scores.json`. Real database updates (like modifying recommendations or editing scores) are simulated locally in state rather than saved back to a server database.
 - **Routing Base**: Router utilizes HashRouter (`#/`) rather than standard BrowserRouter pathing. This guarantees that built HTML files can be opened and clicked directly on local hard drives (`file:///`) or on static GitHub Pages branches without requiring complex server URL-rewriting rules.
+
+
+## Home Page
+
+![Home Page](./screenshots/home.png)
+
+## Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
