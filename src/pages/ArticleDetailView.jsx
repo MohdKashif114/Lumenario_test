@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { fetchArticleById } from '../utils/dataLoader';
-import ScoreGauge from '../components/ScoreGauge';
 import DecisionBadge from '../components/DecisionBadge';
 import ScoreBreakdown from '../components/ScoreBreakdown';
 import RecommendationList from '../components/RecommendationList';
