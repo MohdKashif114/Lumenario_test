@@ -1,0 +1,182 @@
+[
+  {
+    "article_id": "article_001",
+    "title": "Best Night Moisturizer for Early 20s in India",
+    "tenant": "mystiqare",
+    "target_keyword": "best night moisturizer for early 20s in india",
+    "final_score": 74,
+    "decision": "needs_improvement",
+    "scores": {
+      "search_intent_score": 85,
+      "topical_coverage_score": 60,
+      "structure_score": 78,
+      "trust_score": 80
+    },
+    "missing_topics": [
+      "moisturizer for oily skin",
+      "sensitive skin",
+      "humid weather",
+      "non-comedogenic products"
+    ],
+    "recommendations": [
+      "Add a section for oily and acne-prone skin.",
+      "Add India-specific humidity guidance.",
+      "Explain non-comedogenic moisturizers."
+    ],
+    "competitors": [
+      {
+        "rank": 1,
+        "title": "Best Moisturizers for Young Skin",
+        "url": "https://example.com/best-moisturizer-young-skin",
+        "score": 84
+      },
+      {
+        "rank": 2,
+        "title": "Night Cream vs Moisturizer",
+        "url": "https://example.com/night-cream-vs-moisturizer",
+        "score": 81
+      },
+      {
+        "rank": 3,
+        "title": "How to Choose Moisturizer in Indian Humidity",
+        "url": "https://example.com/skincare-india-humidity",
+        "score": 79
+      }
+    ]
+  },
+  {
+    "article_id": "article_002",
+    "title": "How to Use a Gentle Cleanser in Humid Weather",
+    "tenant": "mystiqare",
+    "target_keyword": "gentle cleanser for humid weather",
+    "final_score": 86,
+    "decision": "publish",
+    "scores": {
+      "search_intent_score": 90,
+      "topical_coverage_score": 82,
+      "structure_score": 88,
+      "trust_score": 85
+    },
+    "missing_topics": [
+      "double cleansing"
+    ],
+    "recommendations": [
+      "Add one small comparison between morning and night cleansing."
+    ],
+    "competitors": [
+      {
+        "rank": 1,
+        "title": "Best Face Wash for Humid Weather",
+        "url": "https://example.com/face-wash-humidity",
+        "score": 81
+      },
+      {
+        "rank": 2,
+        "title": "Gentle Cleanser Guide",
+        "url": "https://example.com/gentle-cleanser-guide",
+        "score": 78
+      }
+    ]
+  },
+  {
+    "article_id": "article_003",
+    "title": "Winter Skincare Routine for Dry Skin in North India",
+    "tenant": "mystiqare",
+    "target_keyword": "winter skincare routine for dry skin north india",
+    "final_score": 62,
+    "decision": "do_not_publish",
+    "scores": {
+      "search_intent_score": 70,
+      "topical_coverage_score": 45,
+      "structure_score": 65,
+      "trust_score": 70
+    },
+    "missing_topics": [
+      "barrier repair",
+      "indoor heating",
+      "morning vs night routine",
+      "sunscreen in winter"
+    ],
+    "recommendations": [
+      "Add a complete morning and night routine.",
+      "Add barrier-repair ingredients.",
+      "Explain why sunscreen still matters in winter."
+    ],
+    "competitors": [
+      {
+        "rank": 1,
+        "title": "Winter Skincare for Dry Skin",
+        "url": "https://example.com/winter-dry-skin",
+        "score": 83
+      }
+    ]
+  },
+  {
+    "article_id": "article_004",
+    "title": "AC Office Skincare: How to Prevent Dryness During Work Hours",
+    "tenant": "mystiqare",
+    "target_keyword": "ac office skincare dryness",
+    "final_score": 79,
+    "decision": "needs_improvement",
+    "scores": {
+      "search_intent_score": 84,
+      "topical_coverage_score": 72,
+      "structure_score": 80,
+      "trust_score": 76
+    },
+    "missing_topics": [
+      "lip dryness",
+      "reapplication routine"
+    ],
+    "recommendations": [
+      "Add an office-friendly reapplication routine.",
+      "Add a section on lips and hands."
+    ],
+    "competitors": [
+      {
+        "rank": 1,
+        "title": "How AC Affects Your Skin",
+        "url": "https://example.com/ac-skin-dryness",
+        "score": 80
+      },
+      {
+        "rank": 2,
+        "title": "Office Skincare Routine",
+        "url": "https://example.com/office-skincare",
+        "score": 76
+      }
+    ]
+  },
+  {
+    "article_id": "article_005",
+    "title": "Sunscreen Mistakes People Make During Monsoon",
+    "tenant": "mystiqare",
+    "target_keyword": "sunscreen mistakes monsoon india",
+    "final_score": 91,
+    "decision": "publish",
+    "scores": {
+      "search_intent_score": 94,
+      "topical_coverage_score": 90,
+      "structure_score": 92,
+      "trust_score": 85
+    },
+    "missing_topics": [],
+    "recommendations": [
+      "Ready to publish. Consider adding one product-selection checklist."
+    ],
+    "competitors": [
+      {
+        "rank": 1,
+        "title": "Do You Need Sunscreen in Monsoon?",
+        "url": "https://example.com/sunscreen-monsoon",
+        "score": 84
+      },
+      {
+        "rank": 2,
+        "title": "Common Sunscreen Mistakes",
+        "url": "https://example.com/sunscreen-mistakes",
+        "score": 82
+      }
+    ]
+  }
+]
